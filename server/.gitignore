@@ -1,0 +1,13 @@
+# React
+node_modules/
+dist/
+
+# C#
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
